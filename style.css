@@ -1,0 +1,54 @@
+div.thumbnail {
+    text-align: center;
+    vertical-align: middle;
+    height: 82px;
+    width: 110px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin: 5px 0px 0px;
+    padding: 0px 7px 7px 0px;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+.massege_table table.listcs {
+    text-align: left;
+    width: 480px;
+    border-collapse: collapse;
+    background-color: rgb(255, 255, 255);
+    table-layout: fixed;
+    margin: 0px auto;
+}
+
+  #header {
+  background-color: blue;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.massege_table div.titlecsmid {
+    width: 480px;
+    height: 27px;
+    line-height: 27px;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(0, 102, 255);
+    vertical-align: middle;
+    text-align:right;
+    white-space: nowrap;
+    margin: 0px;
+    padding: 0px 5px;
+    overflow: hidden;
+}
+
+div {
+    display: block;
+}
